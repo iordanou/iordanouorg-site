@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prometheus on George Iordanou</title>
+    <link>https://iordanou.github.io/iordanouorg-site/tags/prometheus/</link>
+    <description>Recent content in Prometheus on George Iordanou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Fri, 08 Jun 2012 14:37:08 +0000</lastBuildDate>
+    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/prometheus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prometheus</title>
+      <link>https://iordanou.github.io/iordanouorg-site/blog/prometheus/</link>
+      <pubDate>Fri, 08 Jun 2012 14:37:08 +0000</pubDate>
+      <guid>https://iordanou.github.io/iordanouorg-site/blog/prometheus/</guid>
+      <description>&lt;p&gt;&lt;span style=&#34;line-height: 1.5em;&#34;&gt;Last night we watched &lt;/span&gt;&lt;a style=&#34;line-height: 1.5em;&#34; href=&#34;http://www.imdb.com/title/tt1446714/&#34;&gt;Prometheus&lt;/a&gt;&lt;span style=&#34;line-height: 1.5em;&#34;&gt;. I didn’t like the end because it was open to two conflicting interpretations. The first one was that there is an evolution of creation that leads back to God: humans are created by the alien people, which in turn are created by someone else, hinting towards the existence of an ultimate creator, God. The other one was that there is no creator, and the existence of God is just the thing that keeps the woman-survivor sane; in this interpretation, God is understood as a weakness of humans.&lt;/span&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Longevity on George Iordanou</title>
+    <link>https://iordanou.github.io/iordanouorg-site/tags/longevity/</link>
+    <description>Recent content in Longevity on George Iordanou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Mon, 01 Jul 2013 07:00:50 +0000</lastBuildDate>
+    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/longevity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online Public Spaces, Longevity and Portability of Data: policies your MPs can promote</title>
+      <link>https://iordanou.github.io/iordanouorg-site/blog/data-longevity-portability/</link>
+      <pubDate>Mon, 01 Jul 2013 07:00:50 +0000</pubDate>
+      <guid>https://iordanou.github.io/iordanouorg-site/blog/data-longevity-portability/</guid>
+      <description>This is the second of a three-post series on Online Public Spaces. In this post, I focus on the longevity and portability of data and argue for the creation of a cross-platform open standard for data-transfer across social networks, to facilitate decentralised online interaction.&#xA;In a previous article, I have argued that online public spaces, such as Google+, Twitter and Facebook, should be subject to the same regulations as physical public spaces.</description>
+    </item>
+  </channel>
+</rss>

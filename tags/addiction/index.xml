@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Addiction on George Iordanou</title>
+    <link>https://iordanou.github.io/iordanouorg-site/tags/addiction/</link>
+    <description>Recent content in Addiction on George Iordanou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/addiction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Dilemma</title>
+      <link>https://iordanou.github.io/iordanouorg-site/blog/social-dilemma/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://iordanou.github.io/iordanouorg-site/blog/social-dilemma/</guid>
+      <description>The Social Dilemma is a new documentary available on Netflix. The documentary takes the argument a step beyond the mantra that if you are not paying for the product, you are the product, to explain that there is an arms race between the tech giants for our attention.&#xA;Interestingly, the new documentary is not focused on how addictive social media are; instead there is a lot on the mechanics utilised to keep us scrolling and liking content in an ever expanding timeline.</description>
+    </item>
+  </channel>
+</rss>

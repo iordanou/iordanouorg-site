@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Citations on George Iordanou</title>
+    <link>https://iordanou.github.io/iordanouorg-site/tags/citations/</link>
+    <description>Recent content in Citations on George Iordanou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Sun, 23 Nov 2014 10:44:42 +0000</lastBuildDate>
+    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/citations/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Word and Endnote almost made my cry</title>
+      <link>https://iordanou.github.io/iordanouorg-site/blog/endnote-latex/</link>
+      <pubDate>Sun, 23 Nov 2014 10:44:42 +0000</pubDate>
+      <guid>https://iordanou.github.io/iordanouorg-site/blog/endnote-latex/</guid>
+      <description>Today is Sunday, exactly a week since I realised that my referencing application broke my PhD by mixing the thousands of footnotes that I have. It was around 8am. I had waken up a few minutes before E., made us some coffee and turned on the computer. The plan was to keep editing until the bloody PhD is done. The night before, I was editing the “Conclusion” chapter and I noticed that its only reference was misplaced.</description>
+    </item>
+  </channel>
+</rss>

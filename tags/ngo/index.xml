@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ngo on George Iordanou</title>
+    <link>https://iordanou.github.io/iordanouorg-site/tags/ngo/</link>
+    <description>Recent content in Ngo on George Iordanou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Mon, 31 Dec 2018 12:19:26 +0000</lastBuildDate>
+    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/ngo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2018</title>
+      <link>https://iordanou.github.io/iordanouorg-site/blog/year2018/</link>
+      <pubDate>Mon, 31 Dec 2018 12:19:26 +0000</pubDate>
+      <guid>https://iordanou.github.io/iordanouorg-site/blog/year2018/</guid>
+      <description>Let’s face it, 2018 was not a good year for Cyprus. We found ourselves living in a country where extreme poverty and homelessness became acceptable, a mere fact of life. Children sleeping rough, women forced to exchange sex for shelter, and malnourished fathers who skip meals to buy formula milk for their newborns. All real cases of incredibly resilient people whom we failed in 2018. People who are led down by the state and by us.</description>
+    </item>
+  </channel>
+</rss>

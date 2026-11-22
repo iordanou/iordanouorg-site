@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Parliament on George Iordanou</title>
+    <link>https://iordanou.github.io/iordanouorg-site/tags/parliament/</link>
+    <description>Recent content in Parliament on George Iordanou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Mon, 31 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/parliament/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The aftermath of the election</title>
+      <link>https://iordanou.github.io/iordanouorg-site/blog/election-parliament-2021/</link>
+      <pubDate>Mon, 31 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://iordanou.github.io/iordanouorg-site/blog/election-parliament-2021/</guid>
+      <description>The election result caught us all by surprise. ELAM got the fourth place, which was more-or-less expected, but everything else was all over the place. Ruling DISY, despite the scandals, performed reasonably well with only one seat lost; EDEK got the fifth spot and increased its candidates by one; DIKO held well at third place despite the recent split; DIPA (spin-off from DIKO) managed to elect four MPs; and the Greens who massively underperformed their expectations still got an additional MP.</description>
+    </item>
+  </channel>
+</rss>

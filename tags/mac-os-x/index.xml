@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mac Os X on George Iordanou</title>
+    <link>https://iordanou.github.io/iordanouorg-site/tags/mac-os-x/</link>
+    <description>Recent content in Mac Os X on George Iordanou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Tue, 05 Nov 2013 11:10:22 +0000</lastBuildDate>
+    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/mac-os-x/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back to OS X</title>
+      <link>https://iordanou.github.io/iordanouorg-site/blog/back-to-os-x/</link>
+      <pubDate>Tue, 05 Nov 2013 11:10:22 +0000</pubDate>
+      <guid>https://iordanou.github.io/iordanouorg-site/blog/back-to-os-x/</guid>
+      <description>I tried switching back from (Mac) OS X to Linux, but unfortunately, I am now returning back.&#xA;I have been using Linux for the most part of the past thirteen years. The last seven, I have been switching back and forth between Apple’s OS X and various Linux distributions. The machines I use are an ancient Macbook Pro 15″ (2006) and my fairly recent Macbook Air 13″ (mid-2011). Now, for the first time, I am considering staying with OS X for good, despite really not wanting to.</description>
+    </item>
+  </channel>
+</rss>

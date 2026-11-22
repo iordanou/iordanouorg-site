@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Sphere on George Iordanou</title>
+    <link>https://iordanou.github.io/iordanouorg-site/tags/public-sphere/</link>
+    <description>Recent content in Public Sphere on George Iordanou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Tue, 02 Jul 2013 07:00:16 +0000</lastBuildDate>
+    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/public-sphere/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Online Public Spaces and Access: policies your MPs can promote</title>
+      <link>https://iordanou.github.io/iordanouorg-site/blog/data-access/</link>
+      <pubDate>Tue, 02 Jul 2013 07:00:16 +0000</pubDate>
+      <guid>https://iordanou.github.io/iordanouorg-site/blog/data-access/</guid>
+      <description>In previous articles on Online Public Spaces I made two arguments. Firstly, that online public spaces such as Google+, Facebook and Twitter, should be subject to no less regulation than physical public spaces like pubs. Secondly, that in order to guarantee online social interaction we need to protect our data by ensuring that it can survive the discontinuation of a social network. Thus, I made an argument for an import/export mechanism that would underpin a decentralised system of communications.</description>
+    </item>
+    <item>
+      <title>Online Public Spaces, Longevity and Portability of Data: policies your MPs can promote</title>
+      <link>https://iordanou.github.io/iordanouorg-site/blog/data-longevity-portability/</link>
+      <pubDate>Mon, 01 Jul 2013 07:00:50 +0000</pubDate>
+      <guid>https://iordanou.github.io/iordanouorg-site/blog/data-longevity-portability/</guid>
+      <description>This is the second of a three-post series on Online Public Spaces. In this post, I focus on the longevity and portability of data and argue for the creation of a cross-platform open standard for data-transfer across social networks, to facilitate decentralised online interaction.&#xA;In a previous article, I have argued that online public spaces, such as Google+, Twitter and Facebook, should be subject to the same regulations as physical public spaces.</description>
+    </item>
+    <item>
+      <title>LSE Politics and Policy: Online Public Spaces and Google Reader</title>
+      <link>https://iordanou.github.io/iordanouorg-site/blog/online-public-spaces/</link>
+      <pubDate>Fri, 28 Jun 2013 08:50:25 +0000</pubDate>
+      <guid>https://iordanou.github.io/iordanouorg-site/blog/online-public-spaces/</guid>
+      <description>By allowing interaction between people of diverse backgrounds and class, online social tools have come as close as possible to overcoming the structural limitations of physical spaces and are central ingredients of a deliberative democratic state. For this reason, George Iordanou argues that online public spaces should receive no less scrutiny or be subject to no less regulation than physical public spaces.&#xA;On July 1st, Google Reader, a feed aggregator – a program that allows users to get automatic updates from websites — will be retired.</description>
+    </item>
+    <item>
+      <title>Modood’s Multiculturalism: a Civic Idea</title>
+      <link>https://iordanou.github.io/iordanouorg-site/blog/modoods-multiculturalism-a-civic-idea/</link>
+      <pubDate>Tue, 27 Dec 2011 11:12:46 +0000</pubDate>
+      <guid>https://iordanou.github.io/iordanouorg-site/blog/modoods-multiculturalism-a-civic-idea/</guid>
+      <description>Opposite the critiques of group-rights, stands Tariq Modood who is one of the most vocal proponents of multiculturalism in the UK. His book Multiculturalism: a Civic Idea (2007) is a reply to the conservative claims that multiculturalism is dead, like those advanced by the British Prime Minister David Cameron when discussing terrorism and radicalisation (05 February 2011).&#xA;Modood agrees with Kymlicka that ‘the strict separation of state and ethnicity is incoherent’ (Kymlicka 2001) but condemns his preferential treatment of national minorities at the expense of religious groups and voluntary immigrants.</description>
+    </item>
+  </channel>
+</rss>
