@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mme on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/mme/</link>
+    <link>https://iordanou.org/tags/mme/</link>
     <description>Recent content in Mme on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Mon, 01 Apr 2013 12:05:57 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/mme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/mme/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Social Media and #Cyprus</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/social-media-cyprus/</link>
+      <link>https://iordanou.org/blog/social-media-cyprus/</link>
       <pubDate>Mon, 01 Apr 2013 12:05:57 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/social-media-cyprus/</guid>
+      <guid>https://iordanou.org/blog/social-media-cyprus/</guid>
       <description>Cyprus has been at the centre of international attention for a couple of weeks. Information was flowing from every direction and the local and international news agencies reproduced everything – from unverified rumours about the resignation of the Minister of Finance during his visit in Russia, to imaginary offers to buy one of the two local banks. In all the crossfire of information, twitter saved the day. It helped verify information, collect information, alter pre-determined attitudes, translate economic jargon to human language and most importantly, mobilise people.</description>
     </item>
   </channel>

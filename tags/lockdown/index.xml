@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lockdown on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/lockdown/</link>
+    <link>https://iordanou.org/tags/lockdown/</link>
     <description>Recent content in Lockdown on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Fri, 22 Jan 2021 07:32:05 +0200</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/lockdown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/lockdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lockdown blues</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/lockdown-blues/</link>
+      <link>https://iordanou.org/blog/lockdown-blues/</link>
       <pubDate>Fri, 22 Jan 2021 07:32:05 +0200</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/lockdown-blues/</guid>
+      <guid>https://iordanou.org/blog/lockdown-blues/</guid>
       <description>This lockdown does not compare to the ones that preceded it. The age of innocence is gone. For one, we are less scared of the situation, though it is invariably worse. This is the hubris of the surviving human spirit &amp;ndash; the belief that we won’t be dealt with the bad card, or, conversely, the belief that, somehow, a bad situation will turn out ok, much like the death row inmate who eats his last meal expecting a stay of his execution.</description>
     </item>
   </channel>

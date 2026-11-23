@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YouGov on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/yougov/</link>
+    <link>https://iordanou.org/tags/yougov/</link>
     <description>Recent content in YouGov on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Thu, 18 Sep 2014 23:48:20 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/yougov/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/yougov/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Πρώτη ανάλυση του αποτελέσματος στη Σκωτία</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/scotland-results-indyref/</link>
+      <link>https://iordanou.org/blog/scotland-results-indyref/</link>
       <pubDate>Thu, 18 Sep 2014 23:48:20 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/scotland-results-indyref/</guid>
+      <guid>https://iordanou.org/blog/scotland-results-indyref/</guid>
       <description>Η ώρα είναι 00:30 ώρα Αγγλίας. Η έρευνα του YouGov δείχνει το ΟΧΙ να προηγείται με 54%, έναντι 46% του ΝΑΙ. Δεν πρόκειται για exit poll, αλλά για έρευνα με ομάδες ατόμων που ερωτήθηκαν πριν και μετά τη ψηφοφορία τι προτίθενται να ψηφίσουν και τι τελικά ψήφισαν.&#xA;Είναι αξιοσημείωτο ότι η προσέλευση στις κάλπες ξεπέρασε κάθε προηγούμενη εκλογική διαδικασία στη Σκωτία και κάθε πρόβλεψη αναλυτών και δημοσιογράφων που ασχολήθηκαν με το δημοψήφισμα.</description>
     </item>
   </channel>

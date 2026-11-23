@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>July on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/july/</link>
+    <link>https://iordanou.org/tags/july/</link>
     <description>Recent content in July on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/july/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/july/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diary: July 2021 (first ten days). Hospitalisation and the first week back home</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/diary-july-2021/</link>
+      <link>https://iordanou.org/blog/diary-july-2021/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/diary-july-2021/</guid>
+      <guid>https://iordanou.org/blog/diary-july-2021/</guid>
       <description>3 July - My 16 hours at the Accidents and Emergencies department&#xA;Things escalated in the past 24 hours. My leg pain, initially caused by a tendonitis, has been increasing for a week now, despite using crunches. The pain weirdly shifted from the foot to the lower leg. My physiotherapist, with whom I had booked a session for Friday afternoon, immediately detected that something is not right and arranged an urgent appointment with the orthopaedic.</description>
     </item>
   </channel>

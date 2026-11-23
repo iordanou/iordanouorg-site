@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beer on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/beer/</link>
+    <link>https://iordanou.org/tags/beer/</link>
     <description>Recent content in Beer on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Thu, 20 Mar 2014 17:48:25 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/beer/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/beer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reducing the price of beer. Should taxation be used to change social attitudes?</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/taxation-freedom-society/</link>
+      <link>https://iordanou.org/blog/taxation-freedom-society/</link>
       <pubDate>Thu, 20 Mar 2014 17:48:25 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/taxation-freedom-society/</guid>
+      <guid>https://iordanou.org/blog/taxation-freedom-society/</guid>
       <description>Yesterday, the Chancellor of Exchequer, George Osborne, presented the budget for 2014. The big mantra was “hardworking people”—the state aims to protect and promote the interests of the “makers, doers and savers”. One of the measures he announced was that the beer duty will be lowered by 1p per pint. Admittedly this cut will not have a tremendous impact on most people—you need to drink 100 pints to save £1—but it is important for what it represents.</description>
     </item>
   </channel>

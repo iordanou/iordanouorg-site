@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contentment on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/contentment/</link>
+    <link>https://iordanou.org/tags/contentment/</link>
     <description>Recent content in Contentment on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/contentment/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/contentment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are you happy?</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/are-you-happy/</link>
+      <link>https://iordanou.org/blog/are-you-happy/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/are-you-happy/</guid>
+      <guid>https://iordanou.org/blog/are-you-happy/</guid>
       <description>The concept of happiness is alien to me. I don&amp;rsquo;t quite know what a reasonably smart, happy person looks like and thus cannot myself pursue and aspire to a &amp;ldquo;state of happiness&amp;rdquo;. I can, however, understand what it means to be content and grateful for one’s position in life. These feelings are materially different from a state of happiness because they are both temporary and subject to self-persuasion, as well as independent from external validation.</description>
     </item>
   </channel>

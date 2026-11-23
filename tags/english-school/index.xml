@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>English School on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/english-school/</link>
+    <link>https://iordanou.org/tags/english-school/</link>
     <description>Recent content in English School on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Mon, 03 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/english-school/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/english-school/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Σχόλιο για την Αγγλική Σχολή</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/english-school-admissions/</link>
+      <link>https://iordanou.org/blog/english-school-admissions/</link>
       <pubDate>Mon, 03 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/english-school-admissions/</guid>
+      <guid>https://iordanou.org/blog/english-school-admissions/</guid>
       <description>Παρακολούθησα κι εγώ, όπως οι περισσότεροι, το πιο πρόσφατο σκάνδαλο στην Αγγλική Σχολή. Η ανάγνωσή μου όμως της κατάστασης φαίνεται να διαφέρει από πολλούς.&#xA;Θεωρώ ότι αυτό που συνέβη—η προσπάθεια παράκαμψης των διαδικασιών εισδοχής—δεν είναι κάτι καινούριο, δεδομένου ότι η Αγγλική Σχολή παράγει, σε μεγάλο βαθμό, τους “leaders” της πολιτείας μας. Είναι παράδοξο να μην υπάρχει διαφθορά στο φυτώριο παραγωγής ηγετών ενός διεφθαρμένου κράτους. Με εκπλήσσει η άποψη ότι πρόκειται για μεμονωμένο περιστατικό, χωρίς όμως να έχω δεδομένα να στηρίξω τη θέση αυτή, η οποία προκύπτει μόνο ως λογικός συλλογισμός.</description>
     </item>
   </channel>

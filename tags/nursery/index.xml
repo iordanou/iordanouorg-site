@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nursery on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/nursery/</link>
+    <link>https://iordanou.org/tags/nursery/</link>
     <description>Recent content in Nursery on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Thu, 15 Aug 2019 07:55:57 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/nursery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/nursery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fatherhood Diaries: Childcare</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/fd-childcare/</link>
+      <link>https://iordanou.org/blog/fd-childcare/</link>
       <pubDate>Thu, 15 Aug 2019 07:55:57 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/fd-childcare/</guid>
+      <guid>https://iordanou.org/blog/fd-childcare/</guid>
       <description>Now that almost two years have passed since the birth of Johnny, I am clearly a parenting expert, particularly in childcare arrangements. The paradox of childcare is as follows: taking care of a baby on a 24/7 basis in our non-communal societies is akin to an open prison, but delegating your baby’s care to a complete stranger is devastating and triggers feelings of guilt and abandonment. If you don’t have an alternative and if you research the pros and cons of private childcare these feelings can be managed.</description>
     </item>
     <item>
       <title>Fatherhood Diaries: Sick</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/fd-sick/</link>
+      <link>https://iordanou.org/blog/fd-sick/</link>
       <pubDate>Wed, 23 Jan 2019 13:10:23 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/fd-sick/</guid>
+      <guid>https://iordanou.org/blog/fd-sick/</guid>
       <description>The baby is sick. He has fever, diarrhoea and a runny nose. This is more-or-less constant, a very predictable side-effect of him attending nursery since he was five months old. Apparently viruses have the time of their life at nurseries and kindergartens and there is nothing one can do about it. We got better at managing the practicalities, which are familiar to any parent who ever dealt with a simultaneous poopstorm, vomiting and high fever.</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2018 Elections on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/2018-elections/</link>
+    <link>https://iordanou.org/tags/2018-elections/</link>
     <description>Recent content in 2018 Elections on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Tue, 09 Jan 2018 15:51:04 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/2018-elections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/2018-elections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apathy is not the reason people don’t bother voting</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/political-apathy/</link>
+      <link>https://iordanou.org/blog/political-apathy/</link>
       <pubDate>Tue, 09 Jan 2018 15:51:04 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/political-apathy/</guid>
+      <guid>https://iordanou.org/blog/political-apathy/</guid>
       <description>The lack of interest in the forthcoming presidential elections in Cyprus is noteworthy. Contrary to previous elections, I don’t see people passionate about any of the three candidates (perfectly understandable) and I don’t hear heated political arguments for or against either of them.&#xA;I reckon the abstention rate will be high. This, of course, is not to say that Cyprus is in any way special. After all, voters are disenchanted with formal politics everywhere and in particular where there are high levels of nepotism fueling distrust towards the political system as a whole.</description>
     </item>
   </channel>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snowden on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/snowden/</link>
+    <link>https://iordanou.org/tags/snowden/</link>
     <description>Recent content in Snowden on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Wed, 01 Apr 2015 04:21:15 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/snowden/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/snowden/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What makes a hero? — introduction (part 1)</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/hero-1/</link>
+      <link>https://iordanou.org/blog/hero-1/</link>
       <pubDate>Wed, 01 Apr 2015 04:21:15 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/hero-1/</guid>
+      <guid>https://iordanou.org/blog/hero-1/</guid>
       <description>I am always weary of people who call other people heroes.&#xA;What does it mean anyway?&#xA;Such was my attitude towards the act of calling someone a hero. In my defence, most of the people I know who casually refer to others as “heroes,” come from the religious right. More often than not, they juxtapose the term “hero” with the term “traitor.” One can be a hero, or at least try to be one, or else, she is possibly a traitor, or at least suspect of being one.</description>
     </item>
   </channel>

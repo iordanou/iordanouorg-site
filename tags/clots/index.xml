@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Clots on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/clots/</link>
+    <link>https://iordanou.org/tags/clots/</link>
     <description>Recent content in Clots on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Fri, 27 Aug 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/clots/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/clots/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Death, doctors and life ahead</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/death-doctors-life/</link>
+      <link>https://iordanou.org/blog/death-doctors-life/</link>
       <pubDate>Fri, 27 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/death-doctors-life/</guid>
+      <guid>https://iordanou.org/blog/death-doctors-life/</guid>
       <description>This is a reflection of my experience with pulmonary embolism; thoughts, fears, dealing with doctors, and the way forward.&#xA;Stats and the prospect of death About a month and a half ago I suffered from deep vein thrombosis that culminated into a pulmonary embolism (PE). While I did not initially realise the importance of the whole incident, seeing Sunshine’s face upon the doctor’s announcement was enough to start worrying. The anxiety was heightened upon reading the statistics, which indicate that 25-30% of those who suffer from pulmonary embolism die as the disease is silent and remains untreated.</description>
     </item>
   </channel>

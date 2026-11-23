@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Middle Life on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/middle-life/</link>
+    <link>https://iordanou.org/tags/middle-life/</link>
     <description>Recent content in Middle Life on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/middle-life/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/middle-life/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fatherhood Diaries: the millennial crisis</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/fd-millennial-crisis/</link>
+      <link>https://iordanou.org/blog/fd-millennial-crisis/</link>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/fd-millennial-crisis/</guid>
+      <guid>https://iordanou.org/blog/fd-millennial-crisis/</guid>
       <description>I&amp;rsquo;ll be forty in a couple of months. The beginning of middle age. I&amp;rsquo;m a runner and a cyclist, so taking up either&amp;mdash;as people often do to combat or manifest a middle age crisis&amp;mdash;is not really an option for me.&#xA;My generation&amp;mdash;millennials&amp;mdash;was raised to expect stability and inherited permanent uncertainty instead.&#xA;Boomers grew up in an era where reasonable effort yielded maximum outcomes, and they continue to enjoy the privileges of the wealth they accumulated.</description>
     </item>
   </channel>

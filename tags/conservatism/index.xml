@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conservatism on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/conservatism/</link>
+    <link>https://iordanou.org/tags/conservatism/</link>
     <description>Recent content in Conservatism on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Sun, 31 Jul 2011 09:32:00 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/conservatism/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/conservatism/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The rhetoric of values</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/the-rhetoric-of-values/</link>
+      <link>https://iordanou.org/blog/the-rhetoric-of-values/</link>
       <pubDate>Sun, 31 Jul 2011 09:32:00 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/the-rhetoric-of-values/</guid>
+      <guid>https://iordanou.org/blog/the-rhetoric-of-values/</guid>
       <description>When in Cyprus, one cannot escape the occasional reference to ‘values’. The ‘rhetoric of values’ is often expressed through a legalistic interpretation of political and social affairs in order to give a seemingly undisputed interpretation of reality. When this rhetoric is applied, the analysis is abstracted from reality in order to give an account of it. I’m not saying that I have a problem with abstraction per se. On the contrary, I believe abstraction is a very useful analytical tool for reducing the complexity of situations that seem unsolvable.</description>
     </item>
   </channel>

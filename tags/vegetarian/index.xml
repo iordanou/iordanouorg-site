@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vegetarian on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/vegetarian/</link>
+    <link>https://iordanou.org/tags/vegetarian/</link>
     <description>Recent content in Vegetarian on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Wed, 11 Nov 2020 18:02:37 +0200</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/vegetarian/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/vegetarian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fatherhood Diaries: nutrition and eating dead animals</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/fd-nutrition/</link>
+      <link>https://iordanou.org/blog/fd-nutrition/</link>
       <pubDate>Wed, 11 Nov 2020 18:02:37 +0200</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/fd-nutrition/</guid>
+      <guid>https://iordanou.org/blog/fd-nutrition/</guid>
       <description>It was the first year of my undergraduate degree, the afternoon after the last exam, when I joined a friend at the pier at Southampton for a few beers and a steak. That was the last time I ate meat, more than a decade ago. What started as a challenge &amp;ndash; to stay without meat for a week &amp;ndash; became an unlikely lifestyle, given that meat was the main stable in my diet up to that day.</description>
     </item>
   </channel>

@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/series/</link>
+    <link>https://iordanou.org/series/</link>
     <description>Recent content in Series on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

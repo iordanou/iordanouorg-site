@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Running Buddy on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/running-buddy/</link>
+    <link>https://iordanou.org/tags/running-buddy/</link>
     <description>Recent content in Running Buddy on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/running-buddy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/running-buddy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The running buddy</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/running-buddy/</link>
+      <link>https://iordanou.org/blog/running-buddy/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/running-buddy/</guid>
+      <guid>https://iordanou.org/blog/running-buddy/</guid>
       <description>The concept of the running buddy never appealed to me. It contravened the main reason I run&amp;mdash;to enjoy some personal time, take stock of my feelings and thoughts, and restore some balance. In essence, I run away from people and running with others seemed counterproductive. I have been a “lone runner” for most of my adult life. That was until a few months ago when a friend suggested, over pints, that we go for a run the next day.</description>
     </item>
   </channel>

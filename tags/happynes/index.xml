@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Happynes on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/happynes/</link>
+    <link>https://iordanou.org/tags/happynes/</link>
     <description>Recent content in Happynes on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Fri, 29 Jul 2011 16:26:04 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/happynes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/happynes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Happiness and Cypriot Politics</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/happiness-and-cypriot-politics/</link>
+      <link>https://iordanou.org/blog/happiness-and-cypriot-politics/</link>
       <pubDate>Fri, 29 Jul 2011 16:26:04 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/happiness-and-cypriot-politics/</guid>
+      <guid>https://iordanou.org/blog/happiness-and-cypriot-politics/</guid>
       <description>I’m struggling to keep up with the day-to-day lunacy that is Cypriot politics. The other day I was sitting at a café downtown, reading a satirical column published in one of the daily newspapers, whilst the author of the column was sitting a few tables away talking to a friend and laughing. My immediate thought was “how can this person be happy, if his job, day in and day out, is to read and comment on things that Cypriot politicians said, done, or failed to act upon”.</description>
     </item>
   </channel>

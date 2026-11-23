@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeremy on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/jeremy/</link>
+    <link>https://iordanou.org/tags/jeremy/</link>
     <description>Recent content in Jeremy on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Fri, 09 Jun 2017 16:38:06 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/jeremy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/jeremy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Οι εκλογές του Ηνωμένου Βασιλείου</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/ge2017/</link>
+      <link>https://iordanou.org/blog/ge2017/</link>
       <pubDate>Fri, 09 Jun 2017 16:38:06 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/ge2017/</guid>
+      <guid>https://iordanou.org/blog/ge2017/</guid>
       <description>Οι εκλογές του Ηνωμένου Βασιλείου δείχνουν ότι οι ψηφοφόροι δεν πρέπει να θεωρούνται κτήμα κανενός και ότι τα πολιτικά ρίσκα πρέπει να αντιμετωπίζονται ως τέτοια, καθώς στην πολιτική δεν υπάρχουν βεβαιότητες.&#xA;Οι συντηρητικοί έχουν κερδίζει τις εκλογές, αλλά η νίκη τους είναι πύρρειος καθώς δεν συγκέντρωσαν τον μαγικό αριθμό των 326 εδρών που θα τους έδινε την επιδιωκόμενη αυτοδυναμία. Αυτό είναι που οι Βρετανοί ονομάζουν hung parliament. Hung parliament έχουμε όταν κανένα κόμμα δεν είναι σε θέση να πληρώσει τις μισές συν μια θέσεις στο κοινοβούλιο εξασφαλίζοντας πλειοψηφία χωρίς να χρειάζεται να συμμαχήσει με κάποιο άλλο κόμμα.</description>
     </item>
   </channel>

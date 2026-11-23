@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NPL on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/npl/</link>
+    <link>https://iordanou.org/tags/npl/</link>
     <description>Recent content in NPL on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Fri, 19 Oct 2018 04:57:37 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/npl/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/npl/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rent and property prices in Cyprus</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/cy-property-prices/</link>
+      <link>https://iordanou.org/blog/cy-property-prices/</link>
       <pubDate>Fri, 19 Oct 2018 04:57:37 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/cy-property-prices/</guid>
+      <guid>https://iordanou.org/blog/cy-property-prices/</guid>
       <description>Many of my thirty something friends, having recently moved to Cyprus from studies or work abroad, mostly in the UK, are now considering options for long term accommodation; either to buy a ready-made house, build a new one, or buy a flat. Many of them work in finance or law and are more than competent to do the number-crunching necessary for an informed decision. They are perfectly equipped to quantify the pros and cons of whether to sell a flat, buy a plot, how much of their savings (if any) would they need to use, what mortgage to take and what income shall be generated from the renting of any existing property they own.</description>
     </item>
     <item>
       <title>Against the protection of primary residences, in favour of general welfare</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/against-protection-residences/</link>
+      <link>https://iordanou.org/blog/against-protection-residences/</link>
       <pubDate>Thu, 07 Aug 2014 16:06:44 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/against-protection-residences/</guid>
+      <guid>https://iordanou.org/blog/against-protection-residences/</guid>
       <description>Published in the Cyprus-Mail on August 17, 2014, under the title When should the state help?&#xA;I don’t think it’s the government’s job to protect primary residences. Here, I said it. Considerations of general welfare take precedence over protecting people from the bad choices that they have made, even if those choices generate unfortunate circumstances due to no fault of those that made them.&#xA;Let me explain. Private individuals made private contracts with private organisations (banks) regulated by the state (Central Bank of Cyprus) to get mortgages to build houses.</description>
     </item>
   </channel>

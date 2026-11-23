@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Race on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/race/</link>
+    <link>https://iordanou.org/tags/race/</link>
     <description>Recent content in Race on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/race/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/race/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The running buddy</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/running-buddy/</link>
+      <link>https://iordanou.org/blog/running-buddy/</link>
       <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/running-buddy/</guid>
+      <guid>https://iordanou.org/blog/running-buddy/</guid>
       <description>The concept of the running buddy never appealed to me. It contravened the main reason I run&amp;mdash;to enjoy some personal time, take stock of my feelings and thoughts, and restore some balance. In essence, I run away from people and running with others seemed counterproductive. I have been a “lone runner” for most of my adult life. That was until a few months ago when a friend suggested, over pints, that we go for a run the next day.</description>
     </item>
     <item>
       <title>In the head of the lone runner</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/lone-runner/</link>
+      <link>https://iordanou.org/blog/lone-runner/</link>
       <pubDate>Fri, 28 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/lone-runner/</guid>
+      <guid>https://iordanou.org/blog/lone-runner/</guid>
       <description>Obsession, self-destruction, masochism, and, ultimately, salvation, only to be repeated a few days later. These are not the traits of a BDSM fetishist but rather the natural progression of a runner preparing for and ultimately competing in a race. There are all sorts of runners. Some are social creatures who enjoy the company of others, with running being an outlet to exercise their body while satisfying their urge to socialize, communicate, meet, and talk to other people.</description>
     </item>
   </channel>

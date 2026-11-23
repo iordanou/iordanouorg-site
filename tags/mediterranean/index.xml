@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mediterranean on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/mediterranean/</link>
+    <link>https://iordanou.org/tags/mediterranean/</link>
     <description>Recent content in Mediterranean on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Thu, 06 Mar 2014 10:30:23 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/mediterranean/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/mediterranean/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HOWTO survive social encounters with British people</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/howto-survive-britain/</link>
+      <link>https://iordanou.org/blog/howto-survive-britain/</link>
       <pubDate>Thu, 06 Mar 2014 10:30:23 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/howto-survive-britain/</guid>
+      <guid>https://iordanou.org/blog/howto-survive-britain/</guid>
       <description>There are many differences between how people from the UK and how people from the Mediterranean respond in certain social situations. The usual British way of dealing with dislike, for instance, is to keep silent and wait until the person that makes you uncomfortable leaves or stops talking. Confrontation is discouraged and is usually avoided. The most you get is the occasional tapping of the tongue to the upper jaw, making that tut tut (or tsk tsk) sound, that when accompanied with a left-right-left nod of the head, indicates disapproval.</description>
     </item>
   </channel>

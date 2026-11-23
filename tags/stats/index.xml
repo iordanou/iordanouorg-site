@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stats on George Iordanou</title>
-    <link>https://iordanou.github.io/iordanouorg-site/tags/stats/</link>
+    <link>https://iordanou.org/tags/stats/</link>
     <description>Recent content in Stats on George Iordanou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>All rights reserved.</copyright>
     <lastBuildDate>Mon, 09 Feb 2015 09:43:15 +0000</lastBuildDate>
-    <atom:link href="https://iordanou.github.io/iordanouorg-site/tags/stats/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iordanou.org/tags/stats/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>On Useless Statistics</title>
-      <link>https://iordanou.github.io/iordanouorg-site/blog/on-useless-statistics/</link>
+      <link>https://iordanou.org/blog/on-useless-statistics/</link>
       <pubDate>Mon, 09 Feb 2015 09:43:15 +0000</pubDate>
-      <guid>https://iordanou.github.io/iordanouorg-site/blog/on-useless-statistics/</guid>
+      <guid>https://iordanou.org/blog/on-useless-statistics/</guid>
       <description>I run to podcasts. My favourite podcast is More or Less: Behind the Stats, _by Tim Harford. It is broadcasted weekly by BBC Radio 4. Tim humorously examines mainstream statistics that come up in the news. Listeners send their questions and he tries to analyse the numbers to examine the claims that are made.&#xA;For instance, in the latest show, Tim analyses two interesting statistics. The first, was that joggers who run for more than two and a half hours, for more than three times per week, are as likely to die as those who are couch potatoes, whereas those who run for up to two and half hours for less than three times a week and at a slower running pace, enjoy increased chances of survival of non-joggers and strenuous joggers alike.</description>
     </item>
   </channel>
