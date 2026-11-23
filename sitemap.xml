@@ -2,14 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://iordanou.org/project/project1/</loc>
-  </url><url>
-    <loc>https://iordanou.org/project/project2/</loc>
-  </url><url>
-    <loc>https://iordanou.org/project/project3/</loc>
-  </url><url>
-    <loc>https://iordanou.org/project/project4/</loc>
-  </url><url>
     <loc>https://iordanou.org/posts/</loc>
     <lastmod>2026-10-30T00:00:00+00:00</lastmod>
   </url><url>
@@ -4597,28 +4589,6 @@
     <loc>https://iordanou.org/blog/%CE%BC%CE%AF%CF%83%CE%B8%CE%B9%CE%B1-%CE%B4%CE%BF%CF%85%CE%BB%CE%B5%CE%B9%CE%AC/</loc>
     <lastmod>2004-10-16T23:38:00+00:00</lastmod>
   </url><url>
-    <loc>https://iordanou.org/tags/bootstrap/</loc>
-  </url><url>
-    <loc>https://iordanou.org/tags/css/</loc>
-  </url><url>
-    <loc>https://iordanou.org/tags/go/</loc>
-  </url><url>
-    <loc>https://iordanou.org/tags/golang/</loc>
-  </url><url>
-    <loc>https://iordanou.org/tags/highlight-js/</loc>
-  </url><url>
-    <loc>https://iordanou.org/tags/html/</loc>
-  </url><url>
-    <loc>https://iordanou.org/tags/hugo/</loc>
-  </url><url>
-    <loc>https://iordanou.org/tags/js/</loc>
-  </url><url>
-    <loc>https://iordanou.org/project/</loc>
-  </url><url>
-    <loc>https://iordanou.org/tags/responsive/</loc>
-  </url><url>
     <loc>https://iordanou.org/series/</loc>
-  </url><url>
-    <loc>https://iordanou.org/tags/syntax-highlighting/</loc>
   </url>
 </urlset>
